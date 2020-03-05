@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://www.purebasic.com/namespace" version="1.0" creator="PureBasic 5.72 LTS Beta 1 (Windows - x64)">
+  <section name="config">
+    <options closefiles="1" openmode="0" name="Nouveau projet"/>
+  </section>
+  <section name="data">
+    <explorer view="" pattern="0"/>
+    <log show="1"/>
+    <lastopen date="2020-03-05 11:36" user="microdev" host="DESKTOP-LST5252"/>
+  </section>
+  <section name="files">
+    <file name="include\sqlite.pbi">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="++"/>
+      <fingerprint md5="693172ce0e117902c8ef639afd022b9a"/>
+    </file>
+    <file name="main.pb">
+      <config load="0" scan="1" panel="1" warn="1" lastopen="0" panelstate="+"/>
+      <fingerprint md5="50b8e371d16f0dc3178f6a396c7922c4"/>
+    </file>
+  </section>
+  <section name="targets">
+    <target name="Cible par défaut" enabled="1" default="1">
+      <inputfile value=""/>
+      <outputfile value=""/>
+      <options xpskin="1" debug="1"/>
+    </target>
+  </section>
+</project>
